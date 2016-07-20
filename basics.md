@@ -3,7 +3,7 @@
 git init 		-- create a new git repo in current folder
 git status 	-- shows the current status of changes and staged commits in the working directory
 git add		-- Place one or more files in the staging area
-
+git commit	-- Commit staged changes to the git repo
 
 
 
